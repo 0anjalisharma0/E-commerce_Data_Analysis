@@ -27,7 +27,7 @@ ORDER BY 4 DESC
 ```
 
 **Result :**
-"https://user-images.githubusercontent.com/115857221/216097751-9cf81722-0923-48ce-87cb-67c4c43e1a15.png"
+![Screenshot (5)](https://github.com/anjali971611/E-commerce_Data_Analysis/assets/150220050/f4d364d6-1317-42c4-8221-cbce804fbbfe)
 
 **INSIGHTS: The above result shows that gsearch nonbrand campaign received highest traffic*
 
