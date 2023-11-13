@@ -72,7 +72,7 @@ GROUP BY YEAR(created_at), WEEK(created_at)
 ```
 
 **Result :**
-"https://user-images.githubusercontent.com/115857221/216099721-18749403-05ba-4a2c-b562-ed10076282e1.png"
+![Screenshot (6)](https://github.com/anjali971611/E-commerce_Data_Analysis/assets/150220050/5cf2c1d9-e1a8-4aba-934b-2fdcd27d69de)
 
 ### **4. Traffic Source Bid Optimization**
 **What is the conversion rate from session to order,by device type?*
