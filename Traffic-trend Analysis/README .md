@@ -118,7 +118,7 @@ GROUP BY YEAR(created_at), WEEK(created_at)
 ```
 
 **Result :**
-"https://user-images.githubusercontent.com/115857221/216100559-cb7142a5-8022-4ad5-b183-ab005bc5212d.png"
+![Screenshot (4)](https://github.com/anjali971611/E-commerce_Data_Analysis/assets/150220050/cb06cb6f-660f-4852-bb87-266aae911125)
 
 
 
