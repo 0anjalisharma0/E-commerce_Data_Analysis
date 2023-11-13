@@ -96,7 +96,7 @@ ORDER BY 4 DESC
 ```
 
 **Result :**
-"https://user-images.githubusercontent.com/115857221/216100125-db73b60e-23b2-4491-9233-a72886b31827.png"
+"![Screenshot (7)](https://github.com/anjali971611/E-commerce_Data_Analysis/assets/150220050/b3a8ad48-9798-4202-a527-f8ed9860a948)"
 
 **INSIGHTS: The above results shows that desktop has high session volume than mobile*
 
