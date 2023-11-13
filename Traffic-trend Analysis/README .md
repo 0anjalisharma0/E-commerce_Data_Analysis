@@ -51,7 +51,7 @@ WHERE website_sessions.created_at < '2012-04-12'
 ```
 
 **Result :**
-"https://user-images.githubusercontent.com/115857221/216098251-06f32653-8c9c-478a-83f5-0d286efbdb70.png" 
+![Screenshot (3)](https://github.com/anjali971611/E-commerce_Data_Analysis/assets/150220050/0fdbfba9-4a58-47d3-a724-873ec2c8589f)
 
 **INSIGHTS: the above result shows that cvr is 2.9% which means company is overbidding.*
 
