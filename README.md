@@ -7,7 +7,7 @@ This project is based on Udemy ADVANCED MYSQL Data Analysis course.
 - Analyze Business patterns and seasonality
 - Explore product-level sales.
 
-## 📂 **Overview Database**
+## **Overview Database**
 We will be working with six related tables, which contain E-Commerce data about:
 - Website Activity
 - Products
@@ -16,4 +16,27 @@ We will be working with six related tables, which contain E-Commerce data about:
 #### **Entity Relationship Database**
 
  
-![database_layout](https://github.com/anjali971611/E-commerce_Data_Analysis/assets/150220050/923ccc26-aeef-4238-8e83-ebdb59d15e22)
+![database_layout](https://github.com/anjali971611/E-commerce_Data_Analysis/assets/150220050/923ccc26-aeef-4238-8e83-ebdb59d15e22) 
+
+### Understanding concept and the key words in E-commerce 
+1. Paid traffic 
+2. utm_tracking parameters (utm_source, utm_campaign..)
+example : www.abcwebsite.com?utm_source=trafficSource&utm_campaign=campaignName
+3. Bounce rate
+4. Landing page
+5. Conversion funnel
+6. Cross sell product
+
+### Key analysis types in this project
+1. **Traffic source analysis**
+2. **Traffic conversion rate**
+3. **Bounce rate**
+4. **Landing page and its performance**
+5. **Cross sell Analysis**
+
+### Key SQL skills in this practice
+1. **JOIN with various conditions**
+2. **Creating temp tables**
+3. **How to create pivot table with COUNT(CASE WHEN) in SQL**
+4. **Sub-query and when and how to use it**
+
