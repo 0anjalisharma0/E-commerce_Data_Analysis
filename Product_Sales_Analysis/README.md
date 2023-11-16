@@ -31,6 +31,7 @@ WHERE created_at < '2013-04-01'
 GROUP BY 1,2
 ```
 **Result :**
+
 ![Screenshot (28)](https://github.com/anjali971611/E-commerce_Data_Analysis/assets/150220050/b1249166-deec-41ce-8486-fcce75d04140)
 
 ## **Product Level Website Analysis**
@@ -63,6 +64,7 @@ AND w.created_at > '2012-04-01'
 GROUP BY 1,2
 ```
 **Result :**
+
 ![Screenshot (29)](https://github.com/anjali971611/E-commerce_Data_Analysis/assets/150220050/7a4c541a-9c57-451f-94b4-7f3ef4903d23)
 
 
@@ -138,6 +140,7 @@ FROM session_w_next_pageview_url
 GROUP BY 1
 ```
 **Result :**
+
 ![Screenshot (33)](https://github.com/anjali971611/E-commerce_Data_Analysis/assets/150220050/47abe6e2-19ed-41d1-a078-31e5a4558c55)
 
 ## ** CROSS-SELLING PRODUCT ANALYSIS**
@@ -234,6 +237,7 @@ cart_page_id
 GROUP BY time_period;
 ```
 **Result :**
+
 ![Screenshot (39)](https://github.com/anjali971611/E-commerce_Data_Analysis/assets/150220050/439750a0-6d25-4154-b453-31b4918107e9)
 
 
@@ -296,6 +300,7 @@ WHERE order_items.created_at < '2014-10-15'
 GROUP BY 1,2
 ```
 **Result :**
+
 ![Screenshot (35)](https://github.com/anjali971611/E-commerce_Data_Analysis/assets/150220050/53c64875-767f-4bd3-9c05-502ad3b5a8b5)
 
 
