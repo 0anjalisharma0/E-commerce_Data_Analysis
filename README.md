@@ -33,6 +33,7 @@ example : www.abcwebsite.com?utm_source=trafficSource&utm_campaign=campaignName
 3. **Bounce rate**
 4. **Landing page and its performance**
 5. **Cross sell Analysis**
+6. **Product Refund Analysis**
 
 ### Key SQL skills in this practice
 1. **JOIN with various conditions**
